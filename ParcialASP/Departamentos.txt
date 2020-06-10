@@ -1,0 +1,44 @@
+ALTV02020
+Alta Verapaz
+BAJV02020
+Baja Verapaz
+CHTO02020
+Chimaltenango
+CQMA02020
+Chiquimula
+PTNR02020
+Petén
+EPRO02020
+El Progreso
+QCHE02020
+Quiché
+ETLA02020
+Escuintla
+GMTA02020
+Guatemala
+HHNO02020
+Huehuetenango
+IZBA02020
+Izabal
+JLPA02020
+Jalapa
+JTPA02020
+Jutiapa
+QTGO02020
+Quetzaltenango
+RTEU02020
+Retalhuleu
+SCQZ02020
+Sacatepéquez
+SMCS02020
+San Marcos
+SNRA02020
+Santa Rosa
+SOLA02020
+Sololá
+SCPZ02020
+Suchitepéquez
+TTPN02020
+Totonicapán
+ZCPA02020
+Zacapa
